@@ -11,3 +11,4 @@ echo "Current user: $(whoami)"
 echo "Build date: $(date)"
 
 echo "Script execution completed."
+echo "GitHub webhook test successful!"
